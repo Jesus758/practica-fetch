@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "Jesus Arias",
+      "email": "jesusariasgodoy2508@gmail.com",
+      "telefono": "987654321",
+      "empresa": "marketing",
+      "id": 2
+    },
+    {
+      "nombre": "Jorge",
+      "email": "hola@hola.com",
+      "telefono": "987654321",
+      "empresa": "Codigo con Juan",
+      "id": 3
+    }
+  ]
+}
